@@ -2,7 +2,6 @@
 import requests
 import urllib3
 from urllib3.exceptions import InsecureRequestWarning
-from login_success import Login_Success
 
 urllib3.disable_warnings()
 # 加这句不会报错(requests证书警告)
@@ -15,7 +14,6 @@ class HTTPRequests():
         # 依据自己公司的请求头默认值配置(经过抓包，发现CEM请求接口，请求头)
         self.head = {
             "Connection": "keep-alive",
-            "Authorization": Login_Success().get_Authorization(),
             "Content-Type": "application/json;charset=UTF-8",
             "Accept": "application/json, text/plain, */*",
             "Accept-Encoding": "gzip, deflate, br"}
@@ -57,6 +55,6 @@ class HTTPRequests():
 
 
 if __name__=="__main__":
-    print(HTTPRequests().post(uri="/api/upms/user/permissions",data='{"params":{}}').text)
+    pass
 
 

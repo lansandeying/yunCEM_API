@@ -1,0 +1,26 @@
+2022-05-09 20:22:15,289 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2022-05-09 20:22:15,289 - logger - ERROR - 这是一个 error 级别的问题！
+2022-05-09 20:22:15,289 - logger - WARNING - 这是一个 warning 级别的问题！
+2022-05-09 20:22:15,289 - logger - INFO - 这是一个 info 级别的问题！
+2022-05-09 20:22:15,289 - logger - DEBUG - 这是一个 debug 级别的问题！
+2022-05-09 20:22:15,289 - logger - ERROR - name 'true' is not defined
+2022-05-09 20:22:15,289 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2022-05-09 20:22:15,289 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2022-05-09 20:22:15,289 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2022-05-09 20:22:15,289 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2022-05-09 20:22:15,290 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2022-05-09 20:22:15,290 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2022-05-09 20:22:15,290 - logger - Level 11 - 这是一个 Level 11 级别的问题！
+2022-05-09 20:27:38,691 - logger - CRITICAL - 这是一个 critical 级别的问题！
+2022-05-09 20:27:38,692 - logger - ERROR - 这是一个 error 级别的问题！
+2022-05-09 20:27:38,692 - logger - WARNING - 这是一个 warning 级别的问题！
+2022-05-09 20:27:38,692 - logger - INFO - 这是一个 info 级别的问题！
+2022-05-09 20:27:38,692 - logger - DEBUG - 这是一个 debug 级别的问题！
+2022-05-09 20:27:38,692 - logger - ERROR - name 'true' is not defined
+2022-05-09 20:27:38,692 - logger - CRITICAL - 这是一个 critical 级别的问题的另一种写法！
+2022-05-09 20:27:38,692 - logger - ERROR - 这是一个 error 级别的问题的另一种写法！
+2022-05-09 20:27:38,692 - logger - WARNING - 这是一个 warning 级别的问题的另一种写法！
+2022-05-09 20:27:38,692 - logger - INFO - 这是一个 info 级别的问题的另一种写法！
+2022-05-09 20:27:38,692 - logger - DEBUG - 这是一个 debug 级别的问题的另一种写法！
+2022-05-09 20:27:38,692 - logger - Level 51 - 这是一个 Level 51 级别的问题！
+2022-05-09 20:27:38,692 - logger - Level 11 - 这是一个 Level 11 级别的问题！
